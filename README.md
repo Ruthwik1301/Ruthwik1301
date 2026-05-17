@@ -2,7 +2,7 @@
 <!--              GITHUB PROFILE README — CYBERSECURITY STUDENT              -->
 <!-- ██████████████████████████████████████████████████████████████ -->
 
-```html
+```html id="wce1wq"
 <div align="center">
 
 <!-- Animated typing header -->
@@ -15,7 +15,7 @@
 
 &nbsp;
 
-<a href="https://www.linkedin.com/in/tadisettiruthwik">
+<a href="https://www.linkedin.com/in/tadisettiruthwik/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -31,6 +31,7 @@
 
 </div>
 ```
+
 
 
 
