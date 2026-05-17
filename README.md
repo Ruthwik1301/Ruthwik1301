@@ -2,23 +2,37 @@
 <!--              GITHUB PROFILE README — CYBERSECURITY STUDENT              -->
 <!-- ██████████████████████████████████████████████████████████████ -->
 
+```html
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+[Your+Name]+%F0%9F%91%8B;B.Tech+CS+Student+%7C+Cybersecurity+Learner;Exploring+the+Digital+Frontier+%F0%9F%94%90;Building+Skills+One+CTF+at+a+Time+%F0%9F%9A%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey+there!+I%27m+Ruthwik+%F0%9F%91%8B;B.Tech+CS+Student+%7C+Cybersecurity+Learner;Exploring+the+Digital+Frontier+%F0%9F%94%90;Building+Skills+One+CTF+at+a+Time+%F0%9F%9A%A9" alt="Typing SVG" />
 
 <br/>
 
 <!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff41&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Ruthwik1301&color=00ff41&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
 &nbsp;
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<a href="https://www.linkedin.com/in/tadisettiruthwik">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 &nbsp;
-<a href="https://tryhackme.com/p/YOUR_THM_USERNAME"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+
+<a href="https://tryhackme.com/p/ruthwikruthwik701">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+</a>
+
 &nbsp;
+
 <img src="https://img.shields.io/badge/Open%20to-Internships-00ff41?style=flat-square" alt="Open to Internships"/>
 
 </div>
+```
+
+
 
 ---
 
