@@ -186,36 +186,24 @@ Legend:  ✅ Done   🔄 In Progress   ⏳ Upcoming
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ruthwik1301&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" />
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthwik1301&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" />
 <br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ruthwik1301&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react&hide_border=true&color=00ff41&line=00ff41&point=ffffff" alt="Contribution Graph" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruthwik1301&theme=react&hide_border=true&color=00ff41&line=00ff41&point=ffffff" alt="Contribution Graph" />
 </div>
 
 ---
 
 ## 🔐 TryHackMe Progress
-
 <div align="center">
-
-<a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" alt="TryHackMe Badge"/>
+<a href="https://tryhackme.com/p/ruthwikruthwik701">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ruthwikruthwik701.png" alt="TryHackMe Badge"/>
 </a>
-
 </div>
-
-> Replace `YOUR_THM_USERNAME` with your actual TryHackMe username to display your live rank badge.
 
 ---
 
@@ -241,16 +229,15 @@ If you're building your GitHub portfolio, start with these repositories:
 ---
 
 ## 📬 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tadisettiruthwik)
 &nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-View_Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_THM_USERNAME)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-View_Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ruthwikruthwik701)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruthwikruthwik701@gmail.com)
 
-<br/>
+</div>
 
 *"Security is not a product, but a process." — Bruce Schneier*
 
