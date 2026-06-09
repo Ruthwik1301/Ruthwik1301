@@ -44,7 +44,7 @@
 
 class CybersecurityStudent:
     def __init__(self):
-        self.name        = "Your Name"
+        self.name        = "T.Ruthwik"
         self.degree      = "B.Tech Computer Science"
         self.focus       = "Cybersecurity & Ethical Hacking"
         self.location    = "India 🇮🇳"
@@ -63,7 +63,7 @@ class CybersecurityStudent:
     @property
     def goals_2025(self):
         return [
-            "Earn CompTIA Security+ certification",
+            "Earn Cybersecurity specialization certification",
             "Complete 50 TryHackMe rooms",
             "Build 5 hands-on security projects",
             "Land a cybersecurity internship",
