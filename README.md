@@ -158,7 +158,7 @@ Legend:  ✅ Done   🔄 In Progress   ⏳ Upcoming
 | # | Project | Description | Tech | Status |
 |---|---------|-------------|------|--------|
 | 🔐 | [**network-scanner**](https://github.com/Ruthwik1301/python-port-scanner) | Python-based network scanner using Nmap & Scapy | `Python` `Nmap` | ✅ Complete |
-| 🛡️ | [**password-strength-checker**](https://github.com/YOUR_USERNAME/password-strength-checker) | CLI tool to evaluate password strength against NIST guidelines | `Python` | ✅ Complete |
+| 🛡️ | [**password-strength-checker**](https://github.com/Ruthwik1301/password-strength-checker) | CLI tool to evaluate password strength against NIST guidelines | `Python` | ✅ Complete |
 | 🌐 | [**web-vuln-lab**](https://github.com/YOUR_USERNAME/web-vuln-lab) | Personal DVWA lab setup with documented vulnerabilities | `Linux` `Apache` `PHP` | 🔄 In Progress |
 | 🔎 | [**log-analyzer**](https://github.com/YOUR_USERNAME/log-analyzer) | Bash + Python script to parse and flag suspicious system logs | `Python` `Bash` | 🔄 In Progress |
 | 📡 | [**packet-sniffer**](https://github.com/YOUR_USERNAME/packet-sniffer) | Lightweight packet sniffer built with Scapy | `Python` `Scapy` | ⏳ Upcoming |
