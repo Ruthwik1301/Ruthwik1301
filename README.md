@@ -199,11 +199,12 @@ Legend:  ✅ Done   🔄 In Progress   ⏳ Upcoming
 ---
 
 ## 🔐 TryHackMe Progress
-<div align="center">
-<a href="https://tryhackme.com/p/ruthwikruthwik701">
-  <img src="https://tryhackme.com/dashboard?badge=ruthwikruthwik701:terminaled" alt="TryHackMe Badge"/>
-</a>
-</div>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/ruthwikruthwik701">
+    <img src="https://tryhackme.com/dashboard?badge=ruthwikruthwik701:terminaled" alt="TryHackMe Badge">
+  </a>
+</p>
 
 ---
 
