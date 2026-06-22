@@ -208,26 +208,13 @@ Legend:  ✅ Done   🔄 In Progress   ⏳ Upcoming
 
 ---
 
-## 💡 Suggested Repository Names
+## MY NOTES
+### 🔍 Log Analysis Cheat Sheet for Cybersecurity
+🔗 [GitHub Repository]
 
-If you're building your GitHub portfolio, start with these repositories:
 
-```
-🗂️  Recommended Repo Names for a Cybersecurity Student:
 
-  network-scanner          → Python Nmap-based network scanner
-  python-security-scripts  → Collection of security automation scripts
-  ctf-writeups             → Your TryHackMe/HackTheBox solutions & notes
-  web-vuln-lab             → Local DVWA/OWASP WebGoat lab documentation
-  linux-hardening-guide    → Your personal Linux hardening checklist
-  password-tools           → Password generator + strength checker
-  log-analyzer             → System log parser for anomalies
-  packet-sniffer           → Python Scapy packet capture tool
-  aws-security-notes       → Cloud security study notes & scripts
-  cybersecurity-notes      → Your personal study notes & cheatsheets
-```
 
----
 
 ## 📬 Connect With Me
 <div align="center">
@@ -248,17 +235,4 @@ If you're building your GitHub portfolio, start with these repositories:
 
 ---
 
-<!-- 
-  ═══════════════════════════════════════════════════════
-  SETUP CHECKLIST — Do these before publishing:
-  ═══════════════════════════════════════════════════════
-  [ ] Replace YOUR_USERNAME with your GitHub username (all instances)
-  [ ] Replace YOUR_LINKEDIN with your LinkedIn profile slug
-  [ ] Replace YOUR_THM_USERNAME with your TryHackMe username
-  [ ] Replace "Your Name" in the Python block
-  [ ] Update the learning roadmap percentages honestly
-  [ ] Update certifications table to match your actual certs
-  [ ] Add real repo links once you create the repositories
-  [ ] Replace your.email@example.com with your email
-  ═══════════════════════════════════════════════════════
--->
+
