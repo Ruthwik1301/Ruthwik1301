@@ -64,8 +64,8 @@ class CybersecurityStudent:
     def goals_2025(self):
         return [
             "Earn Cybersecurity specialization certification",
-            "Complete 50 TryHackMe rooms",
-            "Build 5 hands-on security projects",
+            "Complete 12 TryHackMe rooms",
+            "Build 3 hands-on security projects",
             "Land a cybersecurity internship",
         ]
 
