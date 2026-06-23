@@ -202,9 +202,11 @@ Legend:  ✅ Done   🔄 In Progress   ⏳ Upcoming
 
 <p align="center">
   <a href="https://tryhackme.com/p/ruthwikruthwik701">
-    <img src="[https://tryhackme.com/dashboard?badge=ruthwikruthwik701:terminaled](https://tryhackme.com/room/linuxfundamentalspart1?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6a095e1dfc53fd22325e8352)" alt="TryHackMe Badge">
+    <img src="./tryhackme-badge.png" alt="TryHackMe Badge" width="300">
   </a>
 </p>
+
+---
 
 ---
 
