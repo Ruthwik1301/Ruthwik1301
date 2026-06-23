@@ -211,11 +211,11 @@ Legend:  ✅ Done   🔄 In Progress   ⏳ Upcoming
 
 
 ---
-
 ## MY NOTES
-### 🔍 Log Analysis Cheat Sheet for Cybersecurity
-🔗 [GitHub Repository](https://github.com/Ruthwik1301/log-analysis-cheatsheet-for-cybersecurity).
 
+### 🔍 Log Analysis Cheat Sheet for Cybersecurity
+
+🔗 [GitHub Repository](https://github.com/Ruthwik1301/log-analysis-cheatsheet-for-cybersecurity)
 
 
 ---
