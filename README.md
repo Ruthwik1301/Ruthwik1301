@@ -201,14 +201,14 @@ Legend:  ✅ Done   🔄 In Progress   ⏳ Upcoming
 ## 🔐 TryHackMe Progress
 
 <p align="center">
-  <a href="https://tryhackme.com/p/ruthwikruthwik701">
-    <img src="./tryhackme-badge.png" alt="TryHackMe Badge" width="300">
+  <a href="https://tryhackme.com/p/Ruthwik13?tab=badges" target="_blank">
+    <img src="tryhackme-badge.png" alt="TryHackMe Badge" width="300">
   </a>
 </p>
 
----
 
----
+
+
 
 ---
 
@@ -218,7 +218,7 @@ Legend:  ✅ Done   🔄 In Progress   ⏳ Upcoming
 
 
 
-
+---
 
 ## 📬 Connect With Me
 <div align="center">
