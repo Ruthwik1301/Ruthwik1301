@@ -206,6 +206,63 @@ Legend:  ✅ Done   🔄 In Progress   ⏳ Upcoming
   </a>
 </p>
 
+# 🛡️ TryHackMe Progress
+
+## ✅ Foundations
+
+- Linux Fundamentals Part 1
+- What is Networking?
+- Careers in Cyber
+
+## ✅ Defensive Security
+
+- Defensive Security Intro
+- Junior Security Analyst Intro
+- Intro to Log Analysis
+- Pyramid of Pain
+
+## ✅ Offensive Security
+
+- Offensive Security Intro
+
+## ✅ Email Security & Phishing
+
+- Phishing Analysis Fundamentals
+- Phishing Emails in Action
+
+---
+
+## 🎯 Skills Gained
+
+### Linux
+- Basic Linux commands
+- File system navigation
+- Terminal usage
+
+### Networking
+- Networking fundamentals
+- IP addressing
+- Common network concepts
+
+### Security Operations (SOC)
+- Security Analyst workflow
+- Log analysis basics
+- Detection concepts
+- Threat intelligence fundamentals
+
+### Threat Intelligence
+- Pyramid of Pain
+- Indicators of Compromise (IOCs)
+
+### Phishing Analysis
+- Email header analysis
+- Identifying phishing indicators
+- Detecting malicious emails
+
+### Cybersecurity Fundamentals
+- Blue Team basics
+- Red Team basics
+- Career paths in cybersecurity
 
 
 
